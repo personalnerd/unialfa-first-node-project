@@ -1,0 +1,12 @@
+{
+  "name": "one-more-first-node-project",
+  "version": "1.0.0",
+  "description": "One more first node project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarcisio Uchoa",
+  "license": "ISC"
+}
